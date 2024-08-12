@@ -1,2 +1,2 @@
 # ATM
-1. sınıf projelerimden biri
+ATM makinesinin işlevlerini model alan java çalışmasıdır. 
